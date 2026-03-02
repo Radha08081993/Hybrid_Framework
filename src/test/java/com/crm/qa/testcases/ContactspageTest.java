@@ -14,6 +14,7 @@ import com.hybrid.qa.pages.HomePage;
 import com.hybrid.qa.pages.LoginPage;
 import com.hybrid.qa.util.TestUtil;
 
+/*This is contactspage class defination*/
 public class ContactspageTest extends TestBase 
 {
 	LoginPage loginpage;
