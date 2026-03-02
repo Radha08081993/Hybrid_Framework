@@ -1,0 +1,15 @@
+<suite name="Hybrid Framework">
+
+<test name="Hybrid framewrok tets cases">
+<parameter name="browser" value="chrome"/>
+
+<classes>
+<class name="com.crm.qa.testcases.LoginPageTest"></class>
+<class name="com.crm.qa.testcases.HomePageTest"></class>
+<class name="com.crm.qa.testcases.ContactspageTest"></class>
+</classes>
+
+</test>
+
+
+</suite>
