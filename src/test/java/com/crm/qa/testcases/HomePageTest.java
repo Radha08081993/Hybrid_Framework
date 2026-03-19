@@ -35,7 +35,7 @@ public HomePageTest()
 @BeforeMethod
 public void setup()
 {
-	initialization();
+	initialization2();
 	
 	 loginpage=new LoginPage();
 	 //Contactspagetest=new Contactspage();
@@ -88,3 +88,8 @@ public void teardown()
 	driver.quit();
 }
 }
+
+
+
+
+
