@@ -35,7 +35,7 @@ public HomePageTest()
 @BeforeMethod
 public void setup()
 {
-	initialization();
+	initialization1();
 	
 	 loginpage=new LoginPage();
 	 //Contactspagetest=new Contactspage();
